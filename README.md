@@ -60,4 +60,4 @@ The company's goal is to determine whether they should focus more on enhancing t
 
 **Results**
 
-The final model helped identify key drivers of customer behavior on both the mobile app and the website. The analysis revealed which platform contributes more significantly to the company's sales, leading to strategic recommendations on where to focus future development efforts.
+The final model helped identify key drivers of customer behavior on both the mobile app and the website. The analysis revealed that company should either further develop its website to match the performance of the app or else it can focus on the app which is doing better for the company.
